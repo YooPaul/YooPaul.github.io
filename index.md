@@ -7,5 +7,5 @@ profile:
 published: true
 ---
 
-I do researcher.
+I do research.
 
