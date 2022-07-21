@@ -1,74 +1,33 @@
-# minimal-academic-website
+# Gradfolio
 
-If you are an academic, **[you should have a website](https://kenworthy.space/advice.html#advpage)**. _Really._ It’s just frustrating and annoying if you are trying to google somebody because you have read their paper / seen their poster / some other reason, and want to get in touch, and you can’t even find an e-mail address.
+responsive, dark-mode ready Jekyll theme designed for use as a personal website and portfolio. [Here's a live demo](https://jitinnair1.github.io/gradfolio/)
 
-This repository here is meant to help you get started by providing you with everything you need to have your own minimal website up and running in (hopefully) less than 10 minutes. It will look something like this:
+## Features
+- Responsive
+- Respects Dark Mode preference set by user
+- Projects Page to showcase your work/side projects
+- Easily link to your profiles on ResearchGate and ORCID
 
-<center>
-  <img src="mockup.png" alt="Mockup">
-</center>
+## Installation
+* Click on `Use this template`
+* Your new site should be ready at https://username.github.io/gradfolio/
+* You can now modify the contents and personalise the template
 
+Alternatively, you can [download the source files](https://github.com/jitinnair1/gradfolio/archive/master.zip) and make changes locally. 
 
+To test these changes, open a terminal inside the source folder and use `jekyll serve --incremental --trace` to make it available on a local server (typically http://localhost:4000/)
 
-## ⚡️Quickstart
+The `--incremental` flag ensures that any changes you make are reflected in your browser in real time and the `--trace` option might be useful for debugging if things break while you are changing the source files.
 
-1. This guide assumes that you will be hosting your website on [GitHub pages](https://pages.github.com). (Of course, the template also works if you are hosting the website somewhere else.) This means that, as a first step, you will need to [get a GitHub account](https://github.com/signup) if you do not have one already. Ideally, choose a somewhat “serious” username, as it will become part of your website’s URL.
+Once you have personalised and tested the site, you can create a new repo, upload these files and host your website from the repo.
 
-2. Once you are signed into your GitHub account, create a new repository. Choose the following repository name:
+## Based on
+- [hagura](https://github.com/sharu725/hagura)
+- [al-folio](https://github.com/alshedivat/al-folio)
+- [noir](https://github.com/essentialenemy/noir)
+- [jekyll-TeXt-theme](https://github.com/kitian616/jekyll-TeXt-theme)
 
-   ```
-   <your_github_username>.github.io
-   ```
+## License
+MIT License
 
-   Note: It needs to be *exactly* this pattern, otherwise it won’t work. The repository should be “Public”, and you might want to “Add a README file” so that you can clone the repository right away.
-
-3. Clone the repository you have just created to your local machine:
-   ```
-   git clone git@github.com:<your_github_username>/<your_github_username>.github.io.git
-   ```
-
-4. Add the relevant files from _this_ repository (i.e., the `index.html`, `main.css`, `image.png`, `favicon.png`) to the copy of _your_ repository that you have just cloned.
-
-5. Use a text editor of your choice to edit the `index.html` to match you, that is, add your name, a short description, relevant links (e.g., to your Google Scholar profile) and so on (see also below). Most of it should be pretty self-explanatory. Also, change the `image.png` to a picture of yourself. You should be able to preview all changes directly by opening the `index.html` in your browser.
-
-6. Maybe add [a favicon](https://favicon.io/tutorials/what-is-a-favicon/). The code for this is already in the `<head>` section of the template; you only need to add a suitable `favicon.png` file. You can use, for example, [this online generator](https://favicon.io/) to create an icon with your initials or something like that.
-
-7. Once you are happy with your changes, stage and commit your changes and push them to GitHub, using something like this:
-
-   ```
-   git add --all
-   git commit -m "First commit"
-   git push
-   ```
-
-8. That’s it! 🥳 Maybe you need to wait a few minutes for the changes to become active, but pretty soon your website should be available at `https://<your_github_username>.github.io`. (BTW, for some extra professionalism, it’s also pretty easy and cheap to set it up to use a custom domain, like, `yourname.com`.)
-
-
-
-## ⚙️ Customization
-
-This template is intentionally kept very minimalistic. Of course, you should feel to expand on it as much as you like. Most of the looks are controlled by the `main.css` file, so this would be a good starting point for changing things like, e.g., the color scheme or the fonts. Here are a few additional hints to get started:
-
-* **Icons:** The icons to link to your social media profiles or other websites are based on [FontAwesome](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/). Adding a new icon is pretty simple. For example, to add your ORCiD, you’d need this:
-
-  ```
-  <a href="link to orcid profile"><i class="ai ai-orcid"></i></a>
-  ```
-
-* **Fonts:** The easiest way to add fonts is to use [Google Webfonts](https://fonts.google.com/). Just pick a font that you like and it will tell you which bit of code you need to add to the `<head>` section of your `index.html`.
-
-Ultimately, if you want are more complex website (e.g., with sub-pages, or a blog, or ...), but still keep the GitHub pages-based approach, you might want to look into static website generators such as [Jekyll](https://jekyllrb.com/) or [Hugo](https://gohugo.io).
-
-
-
-## 🤓 Contributing
-
-If you have any suggestions for improving this template (or the guide that explains how to use it), please feel free to open an issue or contribute a pull request!
-
-
-
-## ⚖️  License
-
-This template is released under a BSD 3-Clause License, see [LICENSE](https://github.com/timothygebhard/minimal-academic-website/blob/main/LICENSE) for more detailed information.
-
-The [default favicon](https://github.com/timothygebhard/minimal-academic-website/blob/main/favicon.png) is taken from [Twemoji](https://twemoji.twitter.com/), who licensed it licensed under the [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
+[![JekyllThemes](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://jekyll-themes.com)
