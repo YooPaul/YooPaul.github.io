@@ -17,7 +17,7 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "https://twitter.com/paulyoo_"
+twitter: "paulyoo_"
 github: "YooPaul"
 googlescholar: "citations?user=gzkMK-MAAAAJ&hl=en"
 #researchgate: "#"
