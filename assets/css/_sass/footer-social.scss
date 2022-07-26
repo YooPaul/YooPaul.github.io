@@ -41,9 +41,14 @@
   font-size: 25px;
 }
 
+.rounded-social-buttons .social-button.googlescholar {
+  background: #9c9c9c;
+}
 
 .rounded-social-buttons .social-button.googlescholar:hover, .rounded-social-buttons .social-button.googlescholar:focus {
+  color: #9c9c9c;
   background: #fefefe;
+  border-color: #9c9c9c;
 }
 
 .rounded-social-buttons .social-button.facebook {
