@@ -8,6 +8,7 @@
 .gallery {
   display: flex;
   flex-wrap: wrap;
+  flex-direction: column;
   /* Compensate for excess margin on outer gallery flex items */
   margin: -1rem -1rem;
 }
