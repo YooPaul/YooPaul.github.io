@@ -22,7 +22,10 @@ published: true
 									<h3 class="paper-title">DreamSparse: Escaping from Plato’s Cave with 2D Frozen Diffusion Model given Sparse Views</h3>
 		            				<h4><em>NeurIPS 2023</em></h4>
 		               				<p class="author">
-		          						<b><u>Paul Yoo</b></u>, Jiaxian Guo, Yutaka Matsuo, Shixiang Shane Gu
+		          						<b><u>Paul Yoo</u></b>,
+										Jiaxian Guo,
+										Yutaka Matsuo,
+										Shixiang Shane Gu
 									</p>
 								</header>
 								<ul>
@@ -47,7 +50,8 @@ published: true
 									</h3>
 		            				<h4><em>In Submission</em></h4>
 		               				<p class="author">
-		          						 Jiaxian Guo<sup>*</sup>, Bo Yang<sup>*</sup>, <b><u>Paul Yoo</u></b>, Bill Yuchen Lin, Yusuke Iwasawa, Yutaka Matsuo</p>
+		          						 Jiaxian Guo<sup>*</sup>, Bo Yang<sup>*</sup>, <b><u>Paul Yoo</u></b>, Bill Yuchen Lin, Yusuke Iwasawa, Yutaka Matsuo
+									</p>
 								</header>
 								<ul>
 			               			<a class="button alt" href="http://time-travel-rephotography.github.io">Project Page</a>
@@ -71,7 +75,7 @@ published: true
 		            				<h4><em>In Submission</em></h4>
 		               				<p class="author">
 									Xin Zhang<sup>*</sup>, Jiaxian Guo<sup>*</sup>,
-									<b><u>Paul Yoo</b></u>, Yutaka Matsuo, Yusuke Iwasawa
+									<b><u>Paul Yoo</u></b>, Yutaka Matsuo, Yusuke Iwasawa
 		          					</p>
 								</header>
 								<ul>
@@ -95,7 +99,7 @@ published: true
 									<h3 class="paper-title">GenDOM: Generalizable One-shot Deformable Object Manipulation with Parameter-Aware Policy</h3>
 		            				<h4><em>In Submission</em></h4>
 		               				<p class="author">
-		          					So Kuroki, Jiaxian Guo, Tatsuya Matsushima, Takuya Okubo, Masato Kobayashi, Yuya Ikeda, Ryosuke Takanami, <b><u>Paul Yoo</b></u>, Yutaka Matsuo, Yusuke Iwasawa
+		          					So Kuroki, Jiaxian Guo, Tatsuya Matsushima, Takuya Okubo, Masato Kobayashi, Yuya Ikeda, Ryosuke Takanami, <b><u>Paul Yoo</u></b>, Yutaka Matsuo, Yusuke Iwasawa
 									</p>
 								</header>
 								<ul>
@@ -121,7 +125,7 @@ published: true
 		               				<p class="author">
 		          						Xuan Luo,
 		          						Cecilia Zhang,
-		          						<b><u>Paul Yoo</b></u>,
+		          						<b><u>Paul Yoo</u></b>,
 			           					Ricardo Martin Brualla,
 			           					Jason Lawrence,
 			           					Steven M. Seitz</p>
@@ -148,7 +152,7 @@ published: true
 									<h3 class="paper-title">Towards AR‐assisted visualisation and guidance for imaging of dental decay</h3>
 		            				<h4><em></em></h4>
 		               				<p class="author">
-	               					 Yaxuan Zhou, <b><u>Paul Yoo</b></u>, Yingru Feng, Aditya Sankar, Alireza Sadr, Eric J Seibel
+	               					 Yaxuan Zhou, <b><u>Paul Yoo</u></b>, Yingru Feng, Aditya Sankar, Alireza Sadr, Eric J Seibel
 		               				</p>
 								</header>
 								<ul>
