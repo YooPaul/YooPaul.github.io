@@ -29,8 +29,8 @@ published: true
 									</p>
 								</header>
 								<ul>
-			               			<a target="_blank" class="button alt" href="https://sites.google.com/view/dreamsparse-webpage">[Project Page]</a>
-			               			<a target="_blank" class="button" href="https://arxiv.org/abs/2306.03414">[Paper]</a>
+			               			<a class="button alt" href="https://sites.google.com/view/dreamsparse-webpage" target="_blank">[Project Page]</a>
+			               			<a class="button" href="https://arxiv.org/abs/2306.03414" target="_blank">[Paper]</a>
 								</ul>
 							</div>	
 						</div>
@@ -52,9 +52,9 @@ published: true
 									</p>
 								</header>
 								<ul>
-			               			<a target="_blank" class="button alt" href="">[Project Page]</a>
-			               			<a target="_blank" class="button" href="">[Paper]</a>
-									<a target="_blank" class="button" href="">[Demo]</a>
+			               			<a class="button alt" href="" target="_blank">[Project Page]</a>
+			               			<a class="button" href="" target="_blank">[Paper]</a>
+									<a class="button" href="" target="_blank">[Demo]</a>
 								</ul>
 							</div>	
 						</div>
@@ -76,8 +76,8 @@ published: true
 		          					</p>
 								</header>
 								<ul>
-			               			<a target="_blank" class="button alt" href="https://sites.google.com/view/phd-demo-page">[Project Page]</a>
-			               			<a target="_blank" class="button" href="https://arxiv.org/abs/2306.07596">[Paper]</a>
+			               			<a class="button alt" href="https://sites.google.com/view/phd-demo-page" target="_blank">[Project Page]</a>
+			               			<a class="button" href="https://arxiv.org/abs/2306.07596" target="_blank">[Paper]</a>
 								</ul>
 							</div>	
 						</div>
@@ -98,8 +98,8 @@ published: true
 									</p>
 								</header>
 								<ul>
-			               			<a target="_blank" class="button alt" href="https://sites.google.com/view/gendom/home">Project Page</a>
-			               			<a target="_blank" class="button" href="https://arxiv.org/abs/2309.09051">Paper</a>
+			               			<a class="button alt" href="https://sites.google.com/view/gendom/home" target="_blank">Project Page</a>
+			               			<a class="button" href="https://arxiv.org/abs/2309.09051" target="_blank">Paper</a>
 								</ul>
 							</div>
 						</div>
@@ -125,8 +125,8 @@ published: true
 			           					Steven M. Seitz</p>
 								</header>
 								<ul>
-			               			<a target="_blank" class="button alt" href="http://time-travel-rephotography.github.io">Project Page</a>
-			               			<a target="_blank" class="button" href="https://arxiv.org/abs/2012.12261">Paper</a>
+			               			<a class="button alt" href="http://time-travel-rephotography.github.io" target="_blank">Project Page</a>
+			               			<a class="button" href="https://arxiv.org/abs/2012.12261" target="_blank">Paper</a>
 								</ul>
 							</div>	
 						</div>
@@ -148,7 +148,7 @@ published: true
 		               				</p>
 								</header>
 								<ul>
-			               			<a target="_blank" class="button" href="">Paper</a>
+			               			<a class="button" href="" target="_blank">Paper</a>
 								</ul>
 							</div>	
 						</div>
