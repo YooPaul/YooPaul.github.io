@@ -1,7 +1,8 @@
 ---
 layout: post
-title: TBD
-description: Soon to be posted
+title: "DreamSparse: Escaping from Plato’s Cave with 2D Frozen Diffusion Model given Sparse Views"
+description: Paul Yoo, Jiaxian Guo, Yutaka Matsuo, Shixiang Shane Gu
 ---
 
-<h2>Under Construction</h2>
+Novel view synthesis given sparse views using a frozen generative model.
+Check out the our paper [here](https://arxiv.org/abs/2306.03414) and our project page [here](https://sites.google.com/view/dreamsparse-webpage){:target="_blank"}.
