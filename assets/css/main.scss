@@ -27,3 +27,164 @@ $on-laptop:        1000px;
         "style",
         "google-fonts"
 ;
+
+
+#publication-list {
+    padding: 2em 0 0em 0;
+    background: #fafafa;
+}
+    #publication-list .item-alt {
+        background: #f3f3f3;
+    }
+
+    #publication-list .inner {
+        padding: 2em 0 0.5em 0 ;
+        display: -ms-flexbox;
+        display: -moz-flex;
+        display: -webkit-flex;
+        display: -ms-flex;
+        display: flex;
+        -moz-flex-direction: row;
+        -webkit-flex-direction: row;
+        -ms-flex-direction: row;
+        flex-direction: row;
+    }
+        #publication-list p {
+            margin: 0 0 0.5em 0;
+        }
+
+        /*#publication-list .inner article {
+            width: 25%;
+        }
+*/
+            #publication-list .inner article:first-child {
+                padding-right: 1em;
+                width: 25%;
+            }
+
+            #publication-list .inner article:last-child {
+                padding-left: 6em;
+                padding-bottom: 1em;
+                width: 75%;
+            }
+
+    @media screen and (max-width: 980px) {
+
+        #publication-list {
+            padding: 4em 0 0 0;
+            background: -moz-linear-gradient(top, #f3f3f3 0%, #f3f3f3 25%, #f7f7f7 0%, #f7f7f7 100%);
+            background: -webkit-linear-gradient(top, #f3f3f3 0%, #f3f3f3 25%, #f7f7f7 0%, #f7f7f7 100%);
+            background: linear-gradient(to bottom, #f3f3f3 0%, #f3f3f3 25%, #f7f7f7 0%, #f7f7f7 100%);
+            filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f3f3f3', endColorstr='#f7f7f7',GradientType=0 );
+        }
+
+            #publication-list .inner {
+                -moz-flex-direction: column;
+                -webkit-flex-direction: column;
+                -ms-flex-direction: column;
+                flex-direction: column;
+            }
+                
+                #publication-list .inner article {
+                    width: 100%;
+                }
+
+                    #publication-list .inner article:first-child {
+                        padding-right: 0;
+                        padding-bottom: 2em;
+                    }
+
+                    #publication-list .inner article:last-child {
+                        padding-left: 0;
+                        padding-top: 2em;
+                    }
+
+    }
+
+    @media screen and (max-width: 736px) {
+
+        #publication-list {
+            padding: 2em 0 0 0;
+        }
+
+    }
+
+#three {
+    padding: 2em 0 2em 0;
+    background: #eaeaea;
+}
+#three.education {
+    background: white;
+}
+    #three.education h4, #three.education p {
+        text-align: center;
+    }
+    #three.education .image.left {
+        width: 30%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #three .inner {
+        display: -ms-flexbox;
+        display: -moz-flex;
+        display: -webkit-flex;
+        display: -ms-flex;
+        display: flex;
+        -moz-flex-direction: row;
+        -webkit-flex-direction: row;
+        -ms-flex-direction: row;
+        flex-direction: row;
+        -moz-justify-content: space-between;
+        -webkit-justify-content: space-between;
+        -ms-justify-content: space-between;
+        justify-content: space-between;
+        -ms-flex-pack: justify;
+    }
+
+        #three .inner article {
+            width: 30%;
+            display: block;
+        }
+
+            #three .inner article p {
+                color: #717171;
+            }
+
+            #three .inner article .icon {
+                color: #b3b3b3;
+                font-size: 3em;
+            }
+
+        @media screen and (max-width: 980px) {
+
+            #three .inner {
+                -moz-flex-direction: column;
+                -webkit-flex-direction: column;
+                -ms-flex-direction: column;
+                flex-direction: column;
+            }
+
+                #three .inner article {
+                    width: 100%;
+                    margin: 0 auto;
+                }
+
+        }
+
+    @media screen and (max-width: 980px) {
+
+        #three {
+            padding: 4em 0 2em 0;
+        }
+
+    }
+
+    @media screen and (max-width: 736px) {
+
+        #three {
+            padding: 2em 0 0.1em 0;
+        }
+
+    }
+
