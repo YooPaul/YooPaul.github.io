@@ -18,9 +18,11 @@ published: true
           <a href="{{ project.redirect }}" target="_blank">
           <span>
               <img src="{{ project.thumbnail | prepend: '/assets/images/' | prepend: site.baseurl | prepend: site.url }}">
+              <!--
               <h2>{{ project.title }}</h2>
               <br/>
               <p>{{ project.description }}</p>
+              -->
           </span>
           </a>
   </div>
@@ -31,9 +33,11 @@ published: true
           <a href="{{ project.url | prepend: site.baseurl | prepend: site.url }}">
           <span>
               <img src="{{ project.thumbnail | prepend: '/assets/images/' | prepend: site.baseurl | prepend: site.url }}">
+              <!--
               <h2>{{ project.title }}</h2>
               <br/>
               <p>{{ project.description }}</p>
+              -->
           </span>
           </a>
   </div>
