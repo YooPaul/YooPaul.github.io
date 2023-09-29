@@ -1,5 +1,6 @@
 ---
 layout: post
+thumbnail: time_travel_rephotography_thumbnail.gif
 title: "Time-travel rephotography"
 description: Xuan Luo, Xuaner Zhang, Paul Yoo, Ricardo Martin-Brualla, Jason Lawrence, Steven M Seitz
 ---
