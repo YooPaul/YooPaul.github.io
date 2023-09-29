@@ -108,6 +108,7 @@ published: true
 			               			<a class="button special" href="https://youtu.be/C8IV7xK7-UI">Talk</a>
 			               			<a class="button" href="https://arxiv.org/abs/2012.12261">Paper</a>
 								</ul>
+							</div>
 						</div>
 					</div>
 				<!-- <div class="item-alt"> -->
