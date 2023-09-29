@@ -175,7 +175,7 @@ published: true
 						<div class="row">
 							<div class="4u 6u(medium) 12u$(small)">
 								<span class="image fit">
-									<img src="../assets/images/dental_imaging_thumbnail.gif">
+									<img src="../assets/images/dental_imaging_thumbnail.jpg">
 								</span>
 							</div>
 							<div class="8u 6u$(medium) 12u$(small)">
