@@ -5,6 +5,10 @@ permalink: /publications/
 published: true
 ---
 
+<head>
+<link rel="stylesheet" href="publication_style.css">
+</head>
+
 <section id = "publication-list">
 				<div class="inner">
 						<div class="row">
