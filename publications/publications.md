@@ -10,7 +10,7 @@ published: true
 						<div class="row">
 							<div class="4u 6u(medium) 12u$(small)">
 								<span class="image fit">
-									<img src="assets/images/dreamsparse_thumbnail.gif">
+									<img src="../assets/images/dreamsparse_thumbnail.gif">
 								</span>
 							</div>
 							<div class="8u 6u$(medium) 12u$(small)">
@@ -42,7 +42,7 @@ published: true
 						<div class="row">
 							<div class="4u 6u(medium) 12u$(small)">
 								<span class="image fit">
-									<img src="assets/images/phd_thumbnail.gif">
+									<img src="../assets/images/phd_thumbnail.gif">
 								</span>
 							</div>
 							<div class="8u 6u$(medium) 12u$(small)">
@@ -74,7 +74,7 @@ published: true
 						<div class="row">
 							<div class="4u 6u(medium) 12u$(small)">
 								<span class="image fit">
-									<img src="assets/images/phd_thumbnail.gif">
+									<img src="../assets/images/phd_thumbnail.gif">
 								</span>
 							</div>
 							<div class="8u 6u$(medium) 12u$(small)">
@@ -105,7 +105,7 @@ published: true
 						<div class="row">
 							<div class="4u 6u(medium) 12u$(small)">
 								<span class="image fit">
-									<img src="assets/images/gendom_thumbnail.gif">
+									<img src="../assets/images/gendom_thumbnail.gif">
 								</span>
 							</div>
 							<div class="8u 6u$(medium) 12u$(small)">
@@ -138,7 +138,7 @@ published: true
 						<div class="row">
 							<div class="4u 6u(medium) 12u$(small)">
 								<span class="image fit">
-									<img src="assets/images/time_travel_rephotography_thumbnail.gif">
+									<img src="../assets/images/time_travel_rephotography_thumbnail.gif">
 								</span>
 							</div>
 							<div class="8u 6u$(medium) 12u$(small)">
@@ -175,7 +175,7 @@ published: true
 						<div class="row">
 							<div class="4u 6u(medium) 12u$(small)">
 								<span class="image fit">
-									<img src="assets/images/dental_imaging_thumbnail.gif">
+									<img src="../assets/images/dental_imaging_thumbnail.gif">
 								</span>
 							</div>
 							<div class="8u 6u$(medium) 12u$(small)">
