@@ -8,7 +8,6 @@
 .gallery {
   display: flex;
   flex-wrap: wrap;
-  flex-direction: column;
   /* Compensate for excess margin on outer gallery flex items */
   margin: -1rem -1rem;
 }
@@ -113,10 +112,9 @@
 }
 
 
-@supports (display: flex) {
+@supports (display: grid) {
   .gallery {
-    display: flex;
-    flex-direction: column;
+    display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     grid-gap: 2rem;
   }
