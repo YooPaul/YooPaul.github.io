@@ -1,5 +1,6 @@
 ---
 layout: post
+thumbnail: dreamsparse_thumbnail.gif
 title: "DreamSparse: Escaping from Plato’s Cave with 2D Frozen Diffusion Model given Sparse Views"
 description: Paul Yoo, Jiaxian Guo, Yutaka Matsuo, Shixiang Shane Gu
 ---
