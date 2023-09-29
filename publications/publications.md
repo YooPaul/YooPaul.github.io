@@ -29,10 +29,8 @@ published: true
 									</p>
 								</header>
 								<ul>
-			               			<a class="button alt" href="http://time-travel-rephotography.github.io">Project Page</a>
-			               			<a class="button special" href="https://youtu.be/ceIopN2UZ_s">Video</a>
-			               			<a class="button special" href="https://youtu.be/C8IV7xK7-UI">Talk</a>
-			               			<a class="button" href="https://arxiv.org/abs/2012.12261">Paper</a>
+			               			<a class="button alt" href="https://sites.google.com/view/dreamsparse-webpage">[Project Page]</a>
+			               			<a class="button" href="https://arxiv.org/abs/2306.03414">[Paper]</a>
 								</ul>
 							</div>	
 						</div>
@@ -54,10 +52,9 @@ published: true
 									</p>
 								</header>
 								<ul>
-			               			<a class="button alt" href="http://time-travel-rephotography.github.io">Project Page</a>
-			               			<a class="button special" href="https://youtu.be/ceIopN2UZ_s">Video</a>
-			               			<a class="button special" href="https://youtu.be/C8IV7xK7-UI">Talk</a>
-			               			<a class="button" href="https://arxiv.org/abs/2012.12261">Paper</a>
+			               			<a class="button alt" href="">[Project Page]</a>
+			               			<a class="button" href="">[Paper]</a>
+									<a class="button" href="">[Demo]</a>
 								</ul>
 							</div>	
 						</div>
@@ -79,10 +76,8 @@ published: true
 		          					</p>
 								</header>
 								<ul>
-			               			<a class="button alt" href="http://time-travel-rephotography.github.io">Project Page</a>
-			               			<a class="button special" href="https://youtu.be/ceIopN2UZ_s">Video</a>
-			               			<a class="button special" href="https://youtu.be/C8IV7xK7-UI">Talk</a>
-			               			<a class="button" href="https://arxiv.org/abs/2012.12261">Paper</a>
+			               			<a class="button alt" href="https://sites.google.com/view/phd-demo-page">[Project Page]</a>
+			               			<a class="button" href="https://arxiv.org/abs/2306.07596">[Paper]</a>
 								</ul>
 							</div>	
 						</div>
@@ -103,10 +98,8 @@ published: true
 									</p>
 								</header>
 								<ul>
-			               			<a class="button alt" href="http://time-travel-rephotography.github.io">Project Page</a>
-			               			<a class="button special" href="https://youtu.be/ceIopN2UZ_s">Video</a>
-			               			<a class="button special" href="https://youtu.be/C8IV7xK7-UI">Talk</a>
-			               			<a class="button" href="https://arxiv.org/abs/2012.12261">Paper</a>
+			               			<a class="button alt" href="(https://sites.google.com/view/gendom/home">Project Page</a>
+			               			<a class="button" href="https://arxiv.org/abs/2309.09051">Paper</a>
 								</ul>
 							</div>
 						</div>
@@ -133,8 +126,6 @@ published: true
 								</header>
 								<ul>
 			               			<a class="button alt" href="http://time-travel-rephotography.github.io">Project Page</a>
-			               			<a class="button special" href="https://youtu.be/ceIopN2UZ_s">Video</a>
-			               			<a class="button special" href="https://youtu.be/C8IV7xK7-UI">Talk</a>
 			               			<a class="button" href="https://arxiv.org/abs/2012.12261">Paper</a>
 								</ul>
 							</div>	
@@ -157,7 +148,7 @@ published: true
 		               				</p>
 								</header>
 								<ul>
-			               			<a class="button" href="https://arxiv.org/abs/2004.15021">Paper</a>
+			               			<a class="button" href="">Paper</a>
 								</ul>
 							</div>	
 						</div>
