@@ -79,85 +79,6 @@
 
 	}
 
-#three {
-	padding: 2em 0 2em 0;
-	background: #eaeaea;
-}
-#three.education {
-	background: white;
-}
-	#three.education h4, #three.education p {
-		text-align: center;
-	}
-	#three.education .image.left {
-		width: 30%;
-		margin-left: auto;
-		margin-right: auto;
-	}
-
-	#three .inner {
-		display: -ms-flexbox;
-		display: -moz-flex;
-		display: -webkit-flex;
-		display: -ms-flex;
-		display: flex;
-		-moz-flex-direction: row;
-		-webkit-flex-direction: row;
-		-ms-flex-direction: row;
-		flex-direction: row;
-		-moz-justify-content: space-between;
-		-webkit-justify-content: space-between;
-		-ms-justify-content: space-between;
-		justify-content: space-between;
-		-ms-flex-pack: justify;
-	}
-
-		#three .inner article {
-			width: 30%;
-			display: block;
-		}
-
-			#three .inner article p {
-				color: #717171;
-			}
-
-			#three .inner article .icon {
-				color: #b3b3b3;
-				font-size: 3em;
-			}
-
-		@media screen and (max-width: 980px) {
-
-			#three .inner {
-				-moz-flex-direction: column;
-				-webkit-flex-direction: column;
-				-ms-flex-direction: column;
-				flex-direction: column;
-			}
-
-				#three .inner article {
-					width: 100%;
-					margin: 0 auto;
-				}
-
-		}
-
-	@media screen and (max-width: 980px) {
-
-		#three {
-			padding: 4em 0 2em 0;
-		}
-
-	}
-
-	@media screen and (max-width: 736px) {
-
-		#three {
-			padding: 2em 0 0.1em 0;
-		}
-
-	}
-
 /* Image */
 
 	.image {
@@ -215,7 +136,6 @@
 
 			.image.fit img {
 				width: 100%;
-				border-radius: 50%;
 			}
 
 		.image.main {
