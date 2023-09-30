@@ -63,7 +63,7 @@ published: true
 					</div>
 				<div class="inner">
 						<div class="row">
-							<div class="4u 6u(medium) 12u$(small)">
+							<div class="4u 8u(medium) 12u$(small)">
 								<span class="image fit">
 									<img src="../assets/images/phd_thumbnail.png">
 								</span>
@@ -86,7 +86,7 @@ published: true
 					</div>
 				<div class="inner">
 						<div class="row">
-							<div class="4u 6u(medium) 12u$(small)">
+							<div class="4u 8u(medium) 12u$(small)">
 								<span class="image fit">
 									<img src="../assets/images/gendom_thumbnail.gif">
 								</span>
