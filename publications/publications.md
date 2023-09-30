@@ -21,6 +21,7 @@ published: true
 								<header>
 									<h3 class="paper-title">DreamSparse: Escaping from Plato’s Cave with 2D Frozen Diffusion Model given Sparse Views</h3>
 		            				<h4><em>NeurIPS 2023</em></h4>
+									<h4><em>CVPRW 2023 XRNeRF</em></h4>
 		               				<p class="author">
 		          						<b><u>Paul Yoo</u></b>,
 										Jiaxian Guo,
