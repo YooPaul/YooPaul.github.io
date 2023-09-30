@@ -144,13 +144,13 @@ published: true
 							<div class="8u 6u$(medium) 12u$(small)">
 								<header>
 									<h3 class="paper-title">Towards AR‐assisted visualisation and guidance for imaging of dental decay</h3>
-		            				<h4><em></em></h4>
+		            				<h4><em>IET Healthcare Technology Letters, 2019</em></h4>
 		               				<p class="author">
 	               					 Yaxuan Zhou, <b><u>Paul Yoo</u></b>, Yingru Feng, Aditya Sankar, Alireza Sadr, Eric J Seibel
 		               				</p>
 								</header>
 								<ul>
-			               			<a class="button" href="" target="_blank">Paper</a>
+			               			<a class="button" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6952244/" target="_blank">Paper</a>
 								</ul>
 							</div>	
 						</div>
