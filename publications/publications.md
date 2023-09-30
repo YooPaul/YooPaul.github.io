@@ -24,9 +24,9 @@ published: true
 									<h4><em>CVPRW 2023 XRNeRF</em></h4>
 		               				<p class="author">
 		          						<b><u>Paul Yoo</u></b>,
-										Jiaxian Guo,
-										Yutaka Matsuo,
-										Shixiang Shane Gu
+										<a href="https://cr-gjx.github.io/">Jiaxian Guo</a>,
+										<a href="http://ymatsuo.com/index.html">Yutaka Matsuo</a>,
+										<a href="https://sites.google.com/view/gugurus/home">Shixiang Shane Gu</a>
 									</p>
 								</header>
 								<ul>
