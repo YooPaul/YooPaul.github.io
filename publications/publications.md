@@ -24,9 +24,9 @@ published: true
 									<h4><em>CVPRW 2023 XRNeRF</em></h4>
 		               				<p class="author">
 		          						<b><u>Paul Yoo</u></b>,
-										<a href="https://cr-gjx.github.io/">Jiaxian Guo</a>,
-										<a href="http://ymatsuo.com/index.html">Yutaka Matsuo</a>,
-										<a href="https://sites.google.com/view/gugurus/home">Shixiang Shane Gu</a>
+										<a class="button" href="https://cr-gjx.github.io/">Jiaxian Guo</a>,
+										<a class="button" href="http://ymatsuo.com/index.html">Yutaka Matsuo</a>,
+										<a class="button" href="https://sites.google.com/view/gugurus/home">Shixiang Shane Gu</a>
 									</p>
 								</header>
 								<ul>
@@ -40,7 +40,7 @@ published: true
 						<div class="row">
 							<div class="4u 6u(medium) 12u$(small)">
 								<span class="image fit">
-									<img src="../assets/images/phd_thumbnail.png">
+									<img src="../assets/images/suspicion_agent_thumbnail.png">
 								</span>
 							</div>
 							<div class="8u 6u$(medium) 12u$(small)">
@@ -53,9 +53,10 @@ published: true
 									</p>
 								</header>
 								<ul>
-			               			<a class="button alt" href="" target="_blank">[Project Page]</a>
+			               			<a class="button alt" href="https://github.com/CR-Gjx/Suspicion-Agent" target="_blank">[Github]</a>
 			               			<a class="button" href="" target="_blank">[Paper]</a>
-									<a class="button" href="" target="_blank">[Demo]</a>
+									<a class="button" href="https://huggingface.co/spaces/cr7-gjx/Suspicion-Agent-Demo" target="_blank">[Gameplay Demo]</a>
+									<a class="button" href="https://huggingface.co/spaces/cr7-gjx/Suspicion-Agent-Data-Visualization" target="_blank">[Gameplay Visualization]</a>
 								</ul>
 							</div>	
 						</div>
