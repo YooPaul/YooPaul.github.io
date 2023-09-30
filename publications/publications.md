@@ -24,9 +24,9 @@ published: true
 									<h4><em>CVPRW 2023 XRNeRF</em></h4>
 		               				<p class="author">
 		          						<b><u>Paul Yoo</u></b>,
-										<a class="button" href="https://cr-gjx.github.io/">Jiaxian Guo</a>,
-										<a class="button" href="http://ymatsuo.com/index.html">Yutaka Matsuo</a>,
-										<a class="button" href="https://sites.google.com/view/gugurus/home">Shixiang Shane Gu</a>
+										Jiaxian Guo,
+										Yutaka Matsuo,
+										Shixiang Shane Gu
 									</p>
 								</header>
 								<ul>
@@ -38,7 +38,7 @@ published: true
 					</div>
 				<div class="inner">
 						<div class="row">
-							<div class="4u 6u(medium) 12u$(small)">
+							<div class="8u 6u(medium) 12u$(small)">
 								<span class="image fit">
 									<img src="../assets/images/suspicion_agent_thumbnail.png">
 								</span>
