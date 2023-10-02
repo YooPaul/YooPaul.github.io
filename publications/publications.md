@@ -54,7 +54,7 @@ published: true
 								</header>
 								<ul>
 			               			<a class="button alt" href="https://github.com/CR-Gjx/Suspicion-Agent" target="_blank">[Github]</a>
-			               			<a class="button" href="" target="_blank">[Paper]</a>
+			               			<a class="button" href="https://arxiv.org/abs/2309.17277" target="_blank">[Paper]</a>
 									<a class="button" href="https://huggingface.co/spaces/cr7-gjx/Suspicion-Agent-Demo" target="_blank">[Gameplay Demo]</a>
 									<a class="button" href="https://huggingface.co/spaces/cr7-gjx/Suspicion-Agent-Data-Visualization" target="_blank">[Gameplay Visualization]</a>
 								</ul>
