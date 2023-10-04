@@ -5,6 +5,7 @@
 class="social-button email" itemprop="email"
 href="mailto:{{ site.email | encode_email }}" target="_blank">
 <i class="far fa-envelope"></i>
+<figcaption>Email</figcaption>
 </a>
 {%- endif -%}
 
@@ -23,6 +24,7 @@ class="social-button github"
 href="https://www.github.com/{{ site.github }}" itemprop="sameAs"
 target="_blank">
 <i class="fab fa-github"></i>
+<figcaption>Github</figcaption>
 </a>
 {%- endif -%}
 
@@ -69,6 +71,7 @@ href="https://scholar.google.com/{{ site.googlescholar }}"
 target="_blank">
 <!--<img src="/scholar_logo.png"> -->
 <i class="fab fa-google"></i>
+<figcaption>Google Scholar</figcaption>
 <!--
 <svg style="color: blue" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
 zoomAndPan="magnify" viewBox="0 0 25 25.000001" preserveAspectRatio="xMidYMid meet" version="1.0">
